@@ -18,4 +18,5 @@
 | ------------------------ | ---------- | ------------------------------------------------------------ |
 | 1일차 :white_check_mark: | 2022-06-28 | [Java 입문수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck) 1 to 17 |
 | 2일차 :white_check_mark: | 2022-06-29 | [Java 입문수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck) 18 to 34 |
+| 3일차 :white_check_mark: | 2022-06-30 | [Java 입문수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck) 35 to 38 |
 
